@@ -1,6 +1,6 @@
 # covid19
 
-In this project we have used the API to fetch the data about number of active,deah and total number of cases
+In this project we have used the API to fetch the data about number of active,death and total number of cases
 
 We have not only limited to specific one country but we can get stats from entire world
 
