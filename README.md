@@ -11,8 +11,8 @@ Here are the snaps of our project:
 
 ![image](https://user-images.githubusercontent.com/91750738/197686781-901efebb-6add-4177-b972-62e06586684d.png)
 
+![image](https://user-images.githubusercontent.com/91750738/218270155-6b52428c-7e51-49b9-a4eb-26a050a6fc42.png)
 
-![image](https://user-images.githubusercontent.com/91750738/197686857-29b321cd-6174-422e-a50d-0d94891f4363.png)
 
 ![image](https://user-images.githubusercontent.com/91750738/197686896-8adc9582-979e-4566-b9ba-74bd9341c784.png)
 ![image](https://user-images.githubusercontent.com/91750738/197686907-500df15c-c715-4edf-8992-b76f52f8eb4f.png)
